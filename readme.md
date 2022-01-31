@@ -54,7 +54,14 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
     <tr>
         <td>20</td>
         <td>Valid parentheses</td>
-        <td>String stack</td>
+        <td>String, stack</td>
+        <td>N</td>
+        <td>31-01-2022</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>Roman To Integer</td>
+        <td>Hash Table, Math, String</td>
         <td>N</td>
         <td>31-01-2022</td>
     </tr>
