@@ -44,4 +44,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>Y</td>
         <td>25-01-2022</td>
     </tr>
+    <tr>
+        <td>3</td>
+        <td>Longest Substring Without Repeating Characters</td>
+        <td>Hash Table, String, Sliding Window</td>
+        <td>Y</td>
+        <td>25-01-2022</td>
+    </tr>
 </table>
