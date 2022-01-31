@@ -49,6 +49,13 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>Longest Substring Without Repeating Characters</td>
         <td>Hash Table, String, Sliding Window</td>
         <td>Y</td>
-        <td>25-01-2022</td>
+        <td>31-01-2022</td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>Valid parentheses</td>
+        <td>String stack</td>
+        <td>N</td>
+        <td>31-01-2022</td>
     </tr>
 </table>
