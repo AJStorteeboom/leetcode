@@ -65,4 +65,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>31-01-2022</td>
     </tr>
+    <tr>
+        <td>797</td>
+        <td>All Paths From Source to Target</td>
+        <td>Backtracking, Depth-First Search, Breath-First Search, Graph</td>
+        <td>N</td>
+        <td>03-02-2022</td>
+    </tr>
 </table>
