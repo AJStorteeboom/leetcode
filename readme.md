@@ -91,13 +91,20 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>Beautiful arrangements</td>
         <td>Array, Dynamic programming, Backtracking, Bit Manupulation, Bitmask</td>
         <td>N</td>
-        <td>05-02-2022</td>
+        <td>06-02-2022</td>
     </tr>
     <tr>
         <td>1980</td>
         <td>Find Unique Binary String</td>
         <td>Array, String, Backtracking</td>
         <td>N</td>
-        <td>06-02-2022</td>
+        <td>07-02-2022</td>
+    </tr>
+    <tr>
+        <td>112</td>
+        <td>Path sum</td>
+        <td>Tree, Depth-First Search, Breath-First Search, Binary Tree</td>
+        <td>Y</td>
+        <td>08-02-2022</td>
     </tr>
 </table>
