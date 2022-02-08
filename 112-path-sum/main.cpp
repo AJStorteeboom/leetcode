@@ -17,19 +17,26 @@ struct TreeNode {
 
 
 bool hasPathSum(TreeNode* root, int targetSum) {
+	//Use a queue with a pair of TreeNode* and int. The treeNode represents the node we're currently visiting, the int represents the currentSum it has
 	queue<pair<TreeNode*, int>> queue;
+
+	//Init first node
 	queue.push(pair<TreeNode*, int>(root, targetSum-root->val));
 
 	while (!queue.empty()) {
 		pair<TreeNode*, int> queueElement = queue.front();
 
+		//Check if value = 0 and if it is a leaf node. If so, we've found the right path
 		if(queueElement.second == 0 && queueElement.first->left == nullptr && queueElement.first->right == nullptr) return true;
+
+		//If node has child, insert it into the queue with the current sum - value of the child node
 		if(queueElement.first->left != nullptr) queue.push(pair<TreeNode*, int>(queueElement.first->left, queueElement.second-queueElement.first->left->val));
 		if(queueElement.first->right != nullptr) queue.push(pair<TreeNode*, int>(queueElement.first->right, queueElement.second-queueElement.first->right->val));
 
 		queue.pop();
 	}
 
+	//If queue is empty and right path hasn't been found, return false;
 	return false;
 }
 
