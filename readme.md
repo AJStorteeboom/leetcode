@@ -107,4 +107,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>Y</td>
         <td>08-02-2022</td>
     </tr>
+    <tr>
+        <td>404</td>
+        <td>Sum of Left Leaves</td>
+        <td>Tree, Depth-First Search, Breath-First Search, Binary Tree</td>
+        <td>Y</td>
+        <td>08-02-2022</td>
+    </tr>
 </table>
