@@ -121,4 +121,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>08-02-2022</td>
     </tr>
+    <tr>
+        <td>1315</td>
+        <td>Sum of Nodes with Even-Valued Grandparent</td>
+        <td>Tree, Depth-First Search, Breath-First Search, Binary Tree</td>
+        <td>N</td>
+        <td>09-02-2022</td>
+    </tr>
 </table>
