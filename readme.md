@@ -111,7 +111,14 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>404</td>
         <td>Sum of Left Leaves</td>
         <td>Tree, Depth-First Search, Breath-First Search, Binary Tree</td>
-        <td>Y</td>
+        <td>N</td>
+        <td>08-02-2022</td>
+    </tr>
+    <tr>
+        <td>1302</td>
+        <td>Deepest leaves sum</td>
+        <td>Tree, Depth-First Search, Breath-First Search, Binary Tree</td>
+        <td>N</td>
         <td>08-02-2022</td>
     </tr>
 </table>
