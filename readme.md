@@ -142,4 +142,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>10-02-2022</td>
     </tr>
+    <tr>
+        <td>733</td>
+        <td>Even Odd Tree</td>
+        <td>Tree, Breath-First Search, Binary Tree</td>
+        <td>N</td>
+        <td>10-02-2022</td>
+    </tr>
 </table>
