@@ -149,4 +149,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>10-02-2022</td>
     </tr>
+    <tr>
+        <td>199</td>
+        <td>Binary Tree Right Side View</td>
+        <td>Tree, Breath-First Search, Binary Tree</td>
+        <td>N</td>
+        <td>13-02-2022</td>
+    </tr>
 </table>
