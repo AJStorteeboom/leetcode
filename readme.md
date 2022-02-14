@@ -156,4 +156,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>13-02-2022</td>
     </tr>
+    <tr>
+        <td>1440</td>
+        <td>Count Good Nodes In Binary Tree</td>
+        <td>Tree, Breath-First Search, Binary Tree</td>
+        <td>N</td>
+        <td>14-02-2022</td>
+    </tr>
 </table>
