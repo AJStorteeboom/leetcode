@@ -170,4 +170,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>15-02-2022</td>
     </tr>
+    <tr>
+        <td>338</td>
+        <td>Counting bits</td>
+        <td>Dynamic Programming, Bit Manipulation</td>
+        <td>Y</td>
+        <td>15-02-2022</td>
+    </tr>
 </table>
