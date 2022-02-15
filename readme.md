@@ -177,4 +177,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>Y</td>
         <td>15-02-2022</td>
     </tr>
+    <tr>
+        <td>1646</td>
+        <td>Get Maximum In Generated Array</td>
+        <td>Array, Dynamic Programming, Simulation</td>
+        <td>N</td>
+        <td>15-02-2022</td>
+    </tr>
 </table>
