@@ -163,4 +163,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>14-02-2022</td>
     </tr>
+    <tr>
+        <td>118</td>
+        <td>Pascal's Triangle</td>
+        <td>Array, Dynamic Programming</td>
+        <td>N</td>
+        <td>15-02-2022</td>
+    </tr>
 </table>
