@@ -184,4 +184,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>15-02-2022</td>
     </tr>
+    <tr>
+        <td>53</td>
+        <td>Maximum Subarray</td>
+        <td>Array, Dynamic Programming, Divide and Conquer</td>
+        <td>N</td>
+        <td>16-02-2022</td>
+    </tr>
 </table>
