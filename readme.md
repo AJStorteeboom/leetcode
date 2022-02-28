@@ -198,4 +198,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>20-02-2022</td>
     </tr>
+    <tr>
+        <td>740</td>
+        <td>Delete and Earn</td>
+        <td>Array, Hash Table, Dynamic Programming</td>
+        <td>Y</td>
+        <td>28-02-2022</td>
+    </tr>
 </table>
