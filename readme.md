@@ -212,4 +212,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>Y</td>
         <td>01-03-2022</td>
     </tr>
+    <tr>
+        <td>1143</td>
+        <td>Longest Common Subsequence</td>
+        <td>String, Dynamic Programming</td>
+        <td>N</td>
+        <td>01-03-2022</td>
+    </tr>
 </table>
