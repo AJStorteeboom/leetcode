@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(1770_maximum_score_from_performing_multiplication_operations)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(1770_maximum_score_from_performing_multiplication_operations main.cpp)

@@ -205,4 +205,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>Y</td>
         <td>28-02-2022</td>
     </tr>
+    <tr>
+        <td>1770</td>
+        <td>Maximum Score from Performing Multiplication Operations</td>
+        <td>Array, Dynamic Programming</td>
+        <td>Y</td>
+        <td>01-03-2022</td>
+    </tr>
 </table>
