@@ -219,4 +219,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>01-03-2022</td>
     </tr>
+    <tr>
+        <td>221</td>
+        <td>Maximal Square</td>
+        <td>Array, Matrix, Dynamic Programming</td>
+        <td>Y</td>
+        <td>02-03-2022</td>
+    </tr>
 </table>
