@@ -233,4 +233,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>22-03-2022</td>
     </tr>
+    <tr>
+        <td>787</td>
+        <td>Cheapest Flights Within K Stops</td>
+        <td>Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path</td>
+        <td>N</td>
+        <td>23-03-2022</td>
+    </tr>
 </table>
