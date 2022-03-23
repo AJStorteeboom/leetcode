@@ -226,4 +226,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>Y</td>
         <td>02-03-2022</td>
     </tr>
+    <tr>
+        <td>926</td>
+        <td>Flip String To Monotone Increasing</td>
+        <td>String, Dynamic Programming</td>
+        <td>N</td>
+        <td>22-03-2022</td>
+    </tr>
 </table>
