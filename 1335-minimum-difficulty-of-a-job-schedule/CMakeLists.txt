@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(1335_minimum_difficulty_of_a_job_schedule)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(1335_minimum_difficulty_of_a_job_schedule main.cpp)

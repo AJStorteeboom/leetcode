@@ -240,4 +240,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>23-03-2022</td>
     </tr>
+    <tr>
+        <td>1335</td>
+        <td>Minimum Difficulty of a Job Schedule</td>
+        <td>Dynamic Programming, Array</td>
+        <td>N</td>
+        <td>27-03-2022</td>
+    </tr>
 </table>
