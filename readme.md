@@ -247,4 +247,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>27-03-2022</td>
     </tr>
+    <tr>
+        <td>322</td>
+        <td>Coin change</td>
+        <td>Dynamic Programming, Array, Breadth-First Search</td>
+        <td>N</td>
+        <td>28-03-2022</td>
+    </tr>
 </table>
