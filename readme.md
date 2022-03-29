@@ -254,4 +254,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>28-03-2022</td>
     </tr>
+    <tr>
+        <td>139</td>
+        <td>Word Break</td>
+        <td>Hash Table, String, Dynamic Programming, Trie, Memoization</td>
+        <td>N</td>
+        <td>29-03-2022</td>
+    </tr>
 </table>
