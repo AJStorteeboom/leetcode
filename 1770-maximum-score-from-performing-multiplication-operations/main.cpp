@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-#include <unordered_map>
 
 using namespace std;
 
@@ -28,24 +27,25 @@ public:
 		if(nums.size() == 1) return nums[0] * multipliers[0];
 		return recurse(nums, multipliers, 0, 0);
 	}
-};
 
+	int maximumScoreBottomUp(vector<int>& nums, vector<int>& multipliers) {
+		int n = nums.size();
+		int m = multipliers.size();
 
-int dp(vector<int>& nums, vector<int>& multipliers, int k, int i, int j) {
-	if(i > j || k == multipliers.size()) return 0;
-	if(nums[i]*multipliers[k]>nums[j]*multipliers[k]) {
-		cout << "k " << k << " - front " << endl;
-		return nums[i]*multipliers[k] + dp(nums, multipliers, k+1, i+1, j);
-	} else {
-		cout << "k " << k << " - end= " << endl;
-		return nums[j]*multipliers[k] + dp(nums, multipliers, k+1, i, j-1);
+			int** dp = new int[m + 1][m + 1];
+
+		for (int i = m - 1; i >= 0; i--) {
+			for (int left = i; left >= 0; left--) {
+				int mult = multipliers[i];
+				int right = n - 1 - (i - left);
+				dp[i][left] = Math.max(mult * nums[left] + dp[i + 1][left + 1],
+									   mult * nums[right] + dp[i + 1][left]);
+			}
+		}
+
+		return dp[0][0];
 	}
-}
-
-int maximumScore(vector<int>& nums, vector<int>& multipliers) {
-	if(nums.size() == 1) return nums[0] * multipliers[0];
-	return dp(nums, multipliers, 0, 0, nums.size()-1);
-}
+};
 
 
 int main() {
