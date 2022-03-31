@@ -275,6 +275,13 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>Y</td>
         <td>31-03-2022</td>
     </tr>
+    <tr>
+        <td>309</td>
+        <td>Best Time to Buy and Sell Stock with Cooldown</td>
+        <td>Array, Dynamic Programming</td>
+        <td>N</td>
+        <td>31-03-2022</td>
+    </tr>
 </table>
 
 
