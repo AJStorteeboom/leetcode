@@ -261,4 +261,18 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>29-03-2022</td>
     </tr>
+    <tr>
+        <td>300</td>
+        <td>Longest Increasing Subsequence</td>
+        <td>Array, Binary Search, Dynamic Programming</td>
+        <td>N</td>
+        <td>31-03-2022</td>
+    </tr>
 </table>
+
+
+
+        1937-maximum-number-of-points-with-cost/
+        300-longest-increasing-subsequence/
+        45-jump-game-ii/
+        764-largest-plus-sign/
