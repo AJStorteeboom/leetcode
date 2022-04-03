@@ -289,4 +289,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>01-04-2022</td>
     </tr>
+    <tr>
+        <td>91</td>
+        <td>Decode ways</td>
+        <td>String, Dynamic Programming</td>
+        <td>N</td>
+        <td>03-04-2022</td>
+    </tr>
 </table>
