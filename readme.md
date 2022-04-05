@@ -303,4 +303,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>Y</td>
         <td>05-04-2022</td>
     </tr>
+    <tr>
+        <td>276</td>
+        <td>Paint Fence</td>
+        <td>Dynamic Programming</td>
+        <td>Y</td>
+        <td>05-04-2022</td>
+    </tr>
 </table>
