@@ -310,4 +310,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>Y</td>
         <td>05-04-2022</td>
     </tr>
+    <tr>
+        <td>121</td>
+        <td>Best Time to Buy and Sell Stock</td>
+        <td>Array, Dynamic Programming</td>
+        <td>N</td>
+        <td>05-04-2022</td>
+    </tr>
 </table>
