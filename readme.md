@@ -296,4 +296,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>03-04-2022</td>
     </tr>
+    <tr>
+        <td>518</td>
+        <td>Coin change 2</td>
+        <td>Array, Dynamic Programming</td>
+        <td>Y</td>
+        <td>05-04-2022</td>
+    </tr>
 </table>
