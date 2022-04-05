@@ -12,9 +12,9 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <th>Date last checked</th>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>312</td>
+        <td>Burst Balloons</td>
+        <td>05-04-2022</td>
     </tr>
 </table>
 
