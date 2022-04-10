@@ -337,5 +337,12 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>Array, Dynamic Programming, Matrix</td>
         <td>N</td>
         <td>10-04-2022</td>
-    </tr>    
+    </tr>
+    <tr>
+        <td>931</td>
+        <td>Minimum Falling Path Sum</td>
+        <td>Array, Dynamic Programming, Matrix</td>
+        <td>N</td>
+        <td>10-04-2022</td>
+    </tr>
 </table>
