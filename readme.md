@@ -324,4 +324,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>10-04-2022</td>
     </tr>
+    <tr>
+        <td>63</td>
+        <td>Unique Paths II</td>
+        <td>Array, Dynamic Programming, Matrx</td>
+        <td>N</td>
+        <td>10-04-2022</td>
+    </tr>    
 </table>
