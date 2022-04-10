@@ -327,7 +327,14 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
     <tr>
         <td>63</td>
         <td>Unique Paths II</td>
-        <td>Array, Dynamic Programming, Matrx</td>
+        <td>Array, Dynamic Programming, Matrix</td>
+        <td>N</td>
+        <td>10-04-2022</td>
+    </tr>
+    <tr>
+        <td>64</td>
+        <td>Minimum Path Sum</td>
+        <td>Array, Dynamic Programming, Matrix</td>
         <td>N</td>
         <td>10-04-2022</td>
     </tr>    
