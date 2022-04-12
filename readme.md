@@ -345,4 +345,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>10-04-2022</td>
     </tr>
+    <tr>
+        <td>256</td>
+        <td>Paint house</td>
+        <td>Array, Dynamic Programming</td>
+        <td>N</td>
+        <td>12-04-2022</td>
+    </tr>
 </table>
