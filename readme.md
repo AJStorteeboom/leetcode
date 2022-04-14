@@ -359,4 +359,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>12-04-2022</td>
     </tr>
+    <tr>
+        <td>1473</td>
+        <td>Paint House III</td>
+        <td>Array, Dynamic Programming</td>
+        <td>N</td>
+        <td>13-04-2022</td>
+    </tr>
 </table>
