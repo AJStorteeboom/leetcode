@@ -366,4 +366,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>13-04-2022</td>
     </tr>
+    <tr>
+        <td>1220</td>
+        <td>Count Vowels Permutation</td>
+        <td>Dynamic Programming</td>
+        <td>N</td>
+        <td>15-04-2022</td>
+    </tr>
 </table>
