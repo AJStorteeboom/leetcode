@@ -376,6 +376,13 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
     <tr>
         <td>718</td>
         <td>Maximum Length of Repeated Subarray</td>
+        <td>Array, Binary Search, Dynamic Programming, Sliding window, Rolling Hash, Hash Function</td>
+        <td>N</td>
+        <td>18-04-2022</td>
+    </tr>
+    <tr>
+        <td>1155</td>
+        <td>Number of Dice Rolls With Target Sum</td>
         <td>Dynamic Programming</td>
         <td>N</td>
         <td>18-04-2022</td>

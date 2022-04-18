@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(1155_number_of_dice_rolls_with_target_sum)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(1155_number_of_dice_rolls_with_target_sum main.cpp)
