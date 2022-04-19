@@ -387,4 +387,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>18-04-2022</td>
     </tr>
+    <tr>
+        <td>983</td>
+        <td>Minimum Cost For Tickets</td>
+        <td>Array, Dynamic Programming</td>
+        <td>N</td>
+        <td>19-04-2022</td>
+    </tr>
 </table>
