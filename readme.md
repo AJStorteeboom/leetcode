@@ -401,4 +401,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>19-04-2022</td>
     </tr>
+    <tr>
+        <td>1971</td>
+        <td>Find if Path Exists in Graph</td>
+        <td>Depth-First Search, Breadth-First Search, Graph</td>
+        <td>N</td>
+        <td>23-04-2022</td>
+    </tr>
 </table>
