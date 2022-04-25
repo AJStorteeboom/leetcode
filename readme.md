@@ -413,12 +413,19 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>Minimum Knight Moves</td>
         <td>Breadth-First Search</td>
         <td>Y</td>
-        <td>25-04-2022</td>
+        <td>24-04-2022</td>
     </tr>
     <tr>
         <td>752</td>
         <td>Open the Lock</td>
         <td>Array, Hash Table, String, Breadth-First Search</td>
+        <td>N</td>
+        <td>25-04-2022</td>
+    </tr>
+    <tr>
+        <td>200</td>
+        <td>Number of Islands</td>
+        <td>Array, Depth-First Search, Breadth-First Search, Union Find, Matrix</td>
         <td>N</td>
         <td>25-04-2022</td>
     </tr>
