@@ -11,14 +11,14 @@ public:
     int openLock(vector<string>& deadends, string target) {
         unordered_set<string> visited;
         unordered_set<string> deadendsSet;
-        queue<string> queue;
-        queue.push("0000");
 
         for(const string& deadEnd : deadends) {
             if(deadEnd == "0000") return -1;
             deadendsSet.insert(deadEnd);
         }
 
+        queue<string> queue;
+        queue.push("0000");
         int steps = 0;
 
         while (!queue.empty()) {
@@ -30,60 +30,22 @@ public:
 
                 if(currentCode == target) return steps;
 
-                string copyCurrentCode = currentCode;
-                copyCurrentCode[0] = minChar(currentCode[0]);
-                if(visited.find(copyCurrentCode) == visited.end() && deadendsSet.find(copyCurrentCode) == deadendsSet.end()) {
-                    queue.push(copyCurrentCode);
-                    visited.insert(copyCurrentCode);
-                }
+                for(int y = 0; y < 4; y++) {
+                    string copyCurrentCode = currentCode;
+                    copyCurrentCode[y] = minChar(currentCode[y]);
 
-                copyCurrentCode = currentCode;
-                copyCurrentCode[0] = plusChar(currentCode[0]);
-                if(visited.find(copyCurrentCode) == visited.end() && deadendsSet.find(copyCurrentCode) == deadendsSet.end()) {
-                    queue.push(copyCurrentCode);
-                    visited.insert(copyCurrentCode);
-                }
+                    if(visited.find(copyCurrentCode) == visited.end() && deadendsSet.find(copyCurrentCode) == deadendsSet.end()) {
+                        queue.push(copyCurrentCode);
+                        visited.insert(copyCurrentCode);
+                    }
 
-                copyCurrentCode = currentCode;
-                copyCurrentCode[1] = minChar(currentCode[1]);
-                if(visited.find(copyCurrentCode) == visited.end() && deadendsSet.find(copyCurrentCode) == deadendsSet.end()) {
-                    queue.push(copyCurrentCode);
-                    visited.insert(copyCurrentCode);
-                }
+                    copyCurrentCode = currentCode;
+                    copyCurrentCode[y] = plusChar(currentCode[y]);
 
-                copyCurrentCode = currentCode;
-                copyCurrentCode[1] = plusChar(currentCode[1]);
-                if(visited.find(copyCurrentCode) == visited.end() && deadendsSet.find(copyCurrentCode) == deadendsSet.end()) {
-                    queue.push(copyCurrentCode);
-                    visited.insert(copyCurrentCode);
-                }
-
-                copyCurrentCode = currentCode;
-                copyCurrentCode[2] = minChar(currentCode[2]);
-                if(visited.find(copyCurrentCode) == visited.end() && deadendsSet.find(copyCurrentCode) == deadendsSet.end()) {
-                    queue.push(copyCurrentCode);
-                    visited.insert(copyCurrentCode);
-                }
-
-                copyCurrentCode = currentCode;
-                copyCurrentCode[2] = plusChar(currentCode[2]);
-                if(visited.find(copyCurrentCode) == visited.end() && deadendsSet.find(copyCurrentCode) == deadendsSet.end()) {
-                    queue.push(copyCurrentCode);
-                    visited.insert(copyCurrentCode);
-                }
-
-                copyCurrentCode = currentCode;
-                copyCurrentCode[3] = minChar(currentCode[3]);
-                if(visited.find(copyCurrentCode) == visited.end() && deadendsSet.find(copyCurrentCode) == deadendsSet.end()) {
-                    queue.push(copyCurrentCode);
-                    visited.insert(copyCurrentCode);
-                }
-
-                copyCurrentCode = currentCode;
-                copyCurrentCode[3] = plusChar(currentCode[3]);
-                if(visited.find(copyCurrentCode) == visited.end() && deadendsSet.find(copyCurrentCode) == deadendsSet.end()) {
-                    queue.push(copyCurrentCode);
-                    visited.insert(copyCurrentCode);
+                    if(visited.find(copyCurrentCode) == visited.end() && deadendsSet.find(copyCurrentCode) == deadendsSet.end()) {
+                        queue.push(copyCurrentCode);
+                        visited.insert(copyCurrentCode);
+                    }
                 }
             }
 

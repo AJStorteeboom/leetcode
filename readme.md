@@ -415,4 +415,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>Y</td>
         <td>25-04-2022</td>
     </tr>
+    <tr>
+        <td>752</td>
+        <td>Open the Lock</td>
+        <td>Array, Hash Table, String, Breadth-First Search</td>
+        <td>N</td>
+        <td>25-04-2022</td>
+    </tr>
 </table>
