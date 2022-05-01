@@ -485,4 +485,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>30-04-2022</td>
     </tr>
+    <tr>
+        <td>141</td>
+        <td>Linked List Cycle</td>
+        <td>Hash Table, Linked List, Two Pointers</td>
+        <td>N</td>
+        <td>01-05-2022</td>
+    </tr>
 </table>
