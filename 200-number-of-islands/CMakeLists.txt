@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.17)
-project(200_number_of_islands_)
+project(200_number_of_islands)
 
 set(CMAKE_CXX_STANDARD 17)
 
