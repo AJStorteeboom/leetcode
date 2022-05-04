@@ -506,4 +506,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>03-05-2022</td>
     </tr>
+    <tr>
+        <td>94</td>
+        <td>Binary Tree Inorder Traversel</td>
+        <td>Stack, Tree, Depth-First Search, Binary Tree</td>
+        <td>N</td>
+        <td>04-05-2022</td>
+    </tr>
 </table>
