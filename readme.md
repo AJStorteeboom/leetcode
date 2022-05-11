@@ -513,4 +513,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>04-05-2022</td>
     </tr>
+    <tr>
+        <td>542</td>
+        <td>01 Matrix</td>
+        <td>Array, Dynamic Programming, Breadth-First Search, Matrix</td>
+        <td>N</td>
+        <td>11-05-2022</td>
+    </tr>
 </table>
