@@ -520,4 +520,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>11-05-2022</td>
     </tr>
+    <tr>
+        <td>841</td>
+        <td>Keys and Rooms/</td>
+        <td>Breadth-First Search, Depth-First Search, Graph</td>
+        <td>N</td>
+        <td>13-05-2022</td>
+    </tr>
 </table>
