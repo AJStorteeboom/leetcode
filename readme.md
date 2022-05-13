@@ -527,4 +527,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>13-05-2022</td>
     </tr>
+    <tr>
+        <td>314</td>
+        <td>Binary Tree Vertical Order Traversal</td>
+        <td>Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree</td>
+        <td>N</td>
+        <td>13-05-2022</td>
+    </tr>
 </table>

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(314_binary_tree_vertical_order_traversal)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(314_binary_tree_vertical_order_traversal main.cpp)
