@@ -534,4 +534,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>13-05-2022</td>
     </tr>
+    <tr>
+        <td>1249</td>
+        <td>Minimum Remove to Make Valid Parentheses</td>
+        <td>String Stack</td>
+        <td>N</td>
+        <td>16-05-2022</td>
+    </tr>
 </table>
