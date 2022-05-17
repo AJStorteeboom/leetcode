@@ -548,4 +548,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>17-05-2022</td>
     </tr>
+    <tr>
+        <td>1396</td>
+        <td>Design Underground System</td>
+        <td>Hash Table, String, Design</td>
+        <td>N</td>
+        <td>17-05-2022</td>
+    </tr>
 </table>
