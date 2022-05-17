@@ -541,4 +541,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>16-05-2022</td>
     </tr>
+    <tr>
+        <td>1570</td>
+        <td>Dot Product of Two Sparse Vectors</td>
+        <td>Array, Hash Table, Two Pointers, Design</td>
+        <td>N</td>
+        <td>17-05-2022</td>
+    </tr>
 </table>
