@@ -583,4 +583,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>20-05-2022</td>
     </tr>
+    <tr>
+        <td>1306</td>
+        <td>Jump Game III</td>
+        <td>Array, Depth-First Search, Breadth-First Search</td>
+        <td>N</td>
+        <td>20-05-2022</td>
+    </tr>
 </table>
