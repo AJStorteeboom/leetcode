@@ -576,4 +576,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>Y</td>
         <td>19-05-2022</td>
     </tr>
+    <tr>
+        <td>45</td>
+        <td>Jump Game II</td>
+        <td>Array, Dynamic Programming, Greedy</td>
+        <td>N</td>
+        <td>20-05-2022</td>
+    </tr>
 </table>
