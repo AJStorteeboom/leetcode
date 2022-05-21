@@ -597,4 +597,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>21-05-2022</td>
     </tr>
+    <tr>
+        <td>125</td>
+        <td>Maximum Profit in Job Scheduling</td>
+        <td>Array, Binary Search, Dynamic Programming, Sorting</td>
+        <td>Y</td>
+        <td>21-05-2022</td>
+    </tr>
 </table>
