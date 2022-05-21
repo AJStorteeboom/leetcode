@@ -590,4 +590,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>20-05-2022</td>
     </tr>
+    <tr>
+        <td>125</td>
+        <td>Valid Palindrome</td>
+        <td>Two Pointers, String</td>
+        <td>N</td>
+        <td>21-05-2022</td>
+    </tr>
 </table>
