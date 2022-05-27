@@ -604,4 +604,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>Y</td>
         <td>21-05-2022</td>
     </tr>
+    <tr>
+        <td>1059</td>
+        <td>All Paths from Source Lead to Destination</td>
+        <td>Array, Binary Search, Dynamic Programming, Sorting</td>
+        <td>N</td>
+        <td>27-05-2022</td>
+    </tr>
 </table>
