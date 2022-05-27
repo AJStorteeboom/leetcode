@@ -607,7 +607,14 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
     <tr>
         <td>1059</td>
         <td>All Paths from Source Lead to Destination</td>
-        <td>Array, Binary Search, Dynamic Programming, Sorting</td>
+        <td>Depth-First Search, Graph</td>
+        <td>N</td>
+        <td>27-05-2022</td>
+    </tr>
+    <tr>
+        <td>116</td>
+        <td>Populating Next Right Pointers in Each Node</td>
+        <td>Linked List, Tree, Depth-First Search, Breadth-First Search, Binary Tree</td>
         <td>N</td>
         <td>27-05-2022</td>
     </tr>
