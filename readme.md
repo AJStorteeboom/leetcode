@@ -618,4 +618,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>27-05-2022</td>
     </tr>
+    <tr>
+        <td>505</td>
+        <td>The Maze II</td>
+        <td>Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path</td>
+        <td>Y</td>
+        <td>28-05-2022</td>
+    </tr>
 </table>
