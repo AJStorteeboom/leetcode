@@ -632,4 +632,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>29-05-2022</td>
     </tr>
+    <tr>
+        <td>347</td>
+        <td>Top K Frequent Elements</td>
+        <td>Array, Hash Table,Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect</td>
+        <td>N</td>
+        <td>29-05-2022</td>
+    </tr>
 </table>
