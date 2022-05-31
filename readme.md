@@ -639,4 +639,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>29-05-2022</td>
     </tr>
+    <tr>
+        <td>588</td>
+        <td>Design in-memory File System</td>
+        <td>Hash Table, String, Design, Trie</td>
+        <td>N</td>
+        <td>30-05-2022</td>
+    </tr>
 </table>
