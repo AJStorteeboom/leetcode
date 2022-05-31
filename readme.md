@@ -646,4 +646,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>30-05-2022</td>
     </tr>
+    <tr>
+        <td>703</td>
+        <td>Kth Largest Element in Stream</td>
+        <td>Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream</td>
+        <td>Y</td>
+        <td>31-05-2022</td>
+    </tr>
 </table>
