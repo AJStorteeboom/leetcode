@@ -667,4 +667,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>31-05-2022</td>
     </tr>
+    <tr>
+        <td>378</td>
+        <td>Kth Smallest Element in a Sorted Matrix</td>
+        <td>Array, Binary Search, Sorting, Heap (Priority Queue), Matrix</td>
+        <td>N</td>
+        <td>01-06-2022</td>
+    </tr>
 </table>
