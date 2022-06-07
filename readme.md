@@ -681,4 +681,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>07-06-2022</td>
     </tr>
+    <tr>
+        <td>253</td>
+        <td>Meeting rooms II</td>
+        <td>Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue)</td>
+        <td>N</td>
+        <td>07-06-2022</td>
+    </tr>
 </table>
