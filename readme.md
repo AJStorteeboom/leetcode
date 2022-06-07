@@ -674,4 +674,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>01-06-2022</td>
     </tr>
+    <tr>
+        <td>252</td>
+        <td>Meeting rooms</td>
+        <td>Array, Sorting</td>
+        <td>N</td>
+        <td>07-06-2022</td>
+    </tr>
 </table>
