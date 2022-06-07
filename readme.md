@@ -688,4 +688,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>07-06-2022</td>
     </tr>
+    <tr>
+        <td>973</td>
+        <td>K Closest Points to Origin</td>
+        <td>Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect</td>
+        <td>N</td>
+        <td>07-06-2022</td>
+    </tr>
 </table>
