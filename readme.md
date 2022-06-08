@@ -695,4 +695,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>07-06-2022</td>
     </tr>
+    <tr>
+        <td>1167</td>
+        <td>Minimum Cost to Connect Sticks</td>
+        <td>Array, Greedy, Heap (Priority Queue)</td>
+        <td>N</td>
+        <td>08-06-2022</td>
+    </tr>
 </table>
