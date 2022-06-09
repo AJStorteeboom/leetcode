@@ -702,4 +702,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>08-06-2022</td>
     </tr>
+    <tr>
+        <td>167</td>
+        <td>Two Sum II - Input Array Is Sorted</td>
+        <td>Array, Two Pointers, Binary Search</td>
+        <td>N</td>
+        <td>09-06-2022</td>
+    </tr>
 </table>
