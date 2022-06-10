@@ -709,4 +709,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>10-06-2022</td>
     </tr>
+    <tr>
+        <td>102</td>
+        <td>Binary Tree Level Order Traversal</td>
+        <td>Tree, Breadth-First Search, Binary Tree</td>
+        <td>N</td>
+        <td>10-06-2022</td>
+    </tr>
 </table>
