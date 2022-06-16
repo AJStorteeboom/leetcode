@@ -723,4 +723,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>16-06-2022</td>
     </tr>
+    <tr>
+        <td>122</td>
+        <td>Best Time to Buy and Sell Stock II</td>
+        <td>Array, Dynamic Programming, Greedy</td>
+        <td>N</td>
+        <td>16-06-2022</td>
+    </tr>
 </table>
