@@ -716,4 +716,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>10-06-2022</td>
     </tr>
+    <tr>
+        <td>583</td>
+        <td>Delete Operation for Two Strings</td>
+        <td>String, Dynamic Programming</td>
+        <td>N</td>
+        <td>16-06-2022</td>
+    </tr>
 </table>
