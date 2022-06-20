@@ -730,4 +730,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>16-06-2022</td>
     </tr>
+    <tr>
+        <td>36</td>
+        <td>Valid Sudoku</td>
+        <td>Array, Hash Table, Matrix</td>
+        <td>N</td>
+        <td>17-06-2022</td>
+    </tr>
 </table>
