@@ -737,4 +737,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>17-06-2022</td>
     </tr>
+    <tr>
+        <td>7</td>
+        <td>Reverse Integer</td>
+        <td>Math</td>
+        <td>N</td>
+        <td>17-06-2022</td>
+    </tr>
 </table>
