@@ -744,4 +744,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>17-06-2022</td>
     </tr>
+    <tr>
+        <td>19</td>
+        <td>Remove Nth Node From List</td>
+        <td>Linked List, Two Pointers</td>
+        <td>N</td>
+        <td>25-06-2022</td>
+    </tr>
 </table>
