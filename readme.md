@@ -751,4 +751,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>25-06-2022</td>
     </tr>
+    <tr>
+        <td>79</td>
+        <td>Word Search</td>
+        <td>Array, Backtracking, Matrix</td>
+        <td>N</td>
+        <td>29-06-2022</td>
+    </tr>
 </table>
