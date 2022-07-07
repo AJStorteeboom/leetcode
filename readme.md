@@ -759,6 +759,13 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>29-06-2022</td>
     </tr>
     <tr>
+        <td>339</td>
+        <td>Nested List Weight Sum</td>
+        <td>Depth-First Search, Breadth-First Search</td>
+        <td>N</td>
+        <td>06-07-2022</td>
+    </tr>
+    <tr>
         <td>17</td>
         <td>Letter Combination of a Phone Number</td>
         <td>Hash Table, String, Backtracking</td>
