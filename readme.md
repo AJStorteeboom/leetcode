@@ -772,4 +772,11 @@ This repo contains all my leetcode assignments. You'll find the ones that I'm cu
         <td>N</td>
         <td>07-07-2022</td>
     </tr>
+    <tr>
+        <td>2007</td>
+        <td>Find Original Array From Doubled Array</td>
+        <td>Array, Hash Table, Greedy, Sorting</td>
+        <td>N</td>
+        <td>15-09-2022</td>
+    </tr>
 </table>
